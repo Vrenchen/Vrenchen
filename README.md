@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Vrenchen
-- 👀 I’m interested in coding / programming with frameworks like react, angular, spring, maven and more (:
-- 🌱 I’m currently programming with java, java-/typescript as well as some c# and python
+- 👀 My base frameworks used to be react, angular, spring, maven and more (:
+- 🌱 I’m currently programming with python /javascript - anything agent harness related lately within SAP / AWS
 - 💞️ I’m looking to collaborate on anything fun to learn something new
-- 📫 How to reach me just via pms 
+- 📫 How to reach me: just via pms 
 
 <!---
 Vrenchen/Vrenchen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
